@@ -159,3 +159,4 @@ Emoji:
 :mask:
 
 piyada ounta iD 682115031
+Kornnaphat Uttama 682115001
